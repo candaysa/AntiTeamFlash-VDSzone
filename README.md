@@ -1,5 +1,5 @@
 ﻿# AntiTeamFlash - VDSzone
 
-CS2 Takım Arkadaşı Flash Koruması
+ **This plugin is specifically built for VDSzone and will not work on other systems.**
 
-İndirmek için [Releases](https://github.com/candaysa/AntiTeamFlash-VDSzone/releases) sekmesine gidin.
+Download from [Releases](https://github.com/candaysa/AntiTeamFlash-VDSzone/releases) section.
